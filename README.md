@@ -9,3 +9,4 @@ stash : 변경사항을 잠시 따로 저장해둔다
 cherry-pick
 >>>>>>>>>>>>>>>>>>>>>>
 feat/a : 깃으로 놀아보자
+Let's git it!
